@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+div{
+	outline: 1px black solid;
+}
+.container{
+	width:920px;
+	margin-left:auto;
+	margin-right: auto;
+}
+.blue{
+	background-color: blue;
+	width: 460px;
+	height: 200px;
+	float: left;
+}
+.green{
+	background-color: green;
+	width: 920px;
+	height: 200px;
+	float: left;
+}
+.red{
+	background-color: red;
+	width: 920px;
+	height: 450px;
+	float: left;
+}
+.y1{
+	background-color: yellow;
+	width: 125px;
+	height: 150px;
+	float: left;
+	margin-left: 84px;
+	margin-top: 50px;
+}
+.y2{
+	background-color: yellow;
+	width: 334px;
+	height: 150px;
+	margin-left: 84px;
+	margin-top: 50px;
+	float:left;
+}

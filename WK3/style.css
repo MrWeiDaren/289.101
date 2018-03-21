@@ -1,14 +1,84 @@
-.violettext{
-    color:violet;
-    font-size: 50px;
+div{
+    outline:1px solid yellow;
 }
-.box1{
-    width:200px;
-    height:200px;
-    background-color:#ff0000;
+
+body{
+    background-color:#441E13;
+    color:white;
 }
-.box2{
-    width:200px;
-    height:200px;
-    background-color:#0000ff;
+.logo {
+        width: 205px;
+        float: left;
+        color: white;
+        font-size: 2.5rem;
+        font-weight: bold;
+}
+.slogan {
+        width: 380px;
+        float: left;
+        color: #a37b71;
+        font-family: sans-serif;
+        font-size: 0.9rem;
+        margin-top: 18px;
+}
+.logoContainer {
+    max-width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    overflow:hidden;
+}
+.nav{
+    background-color:rgba(0,0,0,0.25);
+    height:62px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:20px;
+    max-width: 920px;
+}
+.nav ol{
+    padding:18px 10px;
+}
+.nav li{
+    border-right: 1px solid #D4B364;
+    display: block;
+    float: left;
+    font-family: sans-serif;
+    padding: 6px 20px;
+}
+.nav li:last-child {
+    border-right: none;
+}
+.thirdline{
+    max-width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color:#90a780;
+    overflow:hidden;
+}
+.img{
+    width:220px;
+    float:left;
+    margin-top:9px;
+	margin-left:18px;
+	margin-bottom:9px;
+}
+.text{
+    width:500px;
+    float:left;
+}
+.text h1{
+    font-family:serif;
+    font-weight: bold;
+}
+.mainbody{
+	width:920px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:30px;
+}
+.sidebox{
+	float:left;
+	background-color: 
 }

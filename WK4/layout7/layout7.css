@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+
+.con {
+	margin-left: auto;
+	margin-right: auto;
+	width: 920px;
+}
+.blue1 {
+	background-color: blue;
+	width: 920px;
+	height: 100px;
+	float: left;
+}
+.yellow1{
+	background-color: yellow;
+	width: 290px;
+	height: 70px;
+	margin-top: 15px;
+	margin-left: 15px;
+	float: left;
+}
+.yellow2{
+	background-color: yellow;
+	width: 585px;
+	height: 70px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.green{
+	background-color: green;
+	width: 920px;
+	height: 300px;
+	float: left;
+}
+.red1{
+	background-color: red;
+	width: 920px;
+	height: 250px;
+	float: left;
+}
+.yellow3{
+	background-color: yellow;
+	height:70px;
+	width: 880px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.yellow4{
+	background-color: yellow;
+	height:150px;
+	width: 280px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.blue2{
+	background-color: blue;
+	width: 920px;
+	height: 400px;
+	float: left;
+}
+.yellow5{
+	background-color: yellow;
+	height:50px;
+	width: 880px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.yellow6{
+	background-color: yellow;
+	height:100px;
+	width: 205px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.yellow7{
+	background-color: yellow;
+	height:200px;
+	width: 280px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.red2{
+	background-color: red;
+	width: 920px;
+	height: 350px;
+	float: left;
+}
+.yellow8{
+	background-color: yellow;
+	height:270px;
+	width: 520px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}	
+.yellow9{
+	background-color: yellow;
+	height:200px;
+	width: 340px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}	

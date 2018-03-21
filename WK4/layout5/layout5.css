@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+.container{
+	width:920px;
+	margin-left:auto;
+	margin-right: auto;
+}
+.blue{
+	width: 920px;
+	height: 200px;
+	background-color: blue;
+}
+.y1{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	float: right;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+.red{
+	width: 920px;
+	height: 500px;
+	background-color: black;
+}
+.red1{
+	width: 290px;
+	height: 500px;
+	background-color: red;
+	float: left;
+	margin-left: 10px;
+}
+.red2{
+	width: 600px;
+	height: 500px;
+	background-color: red;
+	float: left;
+	margin-left: 10px;
+}
+.y2{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.y3{
+	width: 300px;
+	height: 400px;
+	background-color: yellow;
+	float: right;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+.green{
+	width: 920px;
+	height: 100px;
+	background-color: green;
+}

@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+.container{
+	width:920px;
+	margin-left:auto;
+	margin-right: auto;
+}
+.bluebox{
+	width: 920px;
+	height: 200px;
+	background-color: blue;
+}
+.greenbox{
+	width: 920px;
+	height: 100px;
+	background-color: green;
+}
+.ybox{
+	float: left;
+	background-color: yellow;
+	height: 80px;
+	width: 430px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.redbox{
+	width: 920px;
+	height: 500px;
+	background-color: red;
+}
+.ybox1{
+	float: left;
+	background-color: yellow;
+	height: 460px;
+	width: 430px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
