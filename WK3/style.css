@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div{
     outline:1px solid yellow;
 }
@@ -81,4 +82,33 @@ body{
 .sidebox{
 	float:left;
 	background-color: 
+=======
+.violettext{
+    color:violet;
+    font-size: 50px;
+}
+.box1{
+    width:200px;
+    height:200px;
+    background-color:#ff0000;
+    float:left;
+}
+.box2{
+    width:200px;
+    height:200px;
+    background-color:#0000ff;
+    float:right;
+}
+.container{
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+}
+.topbox{
+    width:1000px;
+    height:200px;
+    background-color: #00ff00;
+    margin-top:250px
+>>>>>>> 7cb3da9d625fd501e8f7e35d5bd1b8cd0a5441d1
 }

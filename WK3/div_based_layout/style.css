@@ -1,0 +1,45 @@
+body{
+    background-color: #441E13;
+    color:white;
+}
+
+div{
+    outline:1px solid red;
+}
+.container{
+    width:920px;
+    margin-right:auto;
+    margin-left: auto;
+}
+.logoarea{
+    width:100%;
+    float:left;
+}
+.logo{
+    width:200px;
+    color:#ffffff;
+    font-size:2.5rem;
+    font-weight:bold;
+    float:left;
+}
+.slogan{
+    width:380px;
+    float:left;
+    color:#a37b71;
+    font-size:0.9rem;
+}
+.imgarea{
+    width:100%;
+    float:left;
+}
+.img{
+    width:150px;
+    height:150px;
+    float:left;
+}
+.text{
+    width:770px;
+    height:150px;
+    float:left;
+    
+}
