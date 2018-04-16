@@ -4,7 +4,7 @@
 /* CSS Document */
 
 body{
-	background-image: url(img/bgimg.jpg);
+	background-image: url("../img/bgimg.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	margin: 0;
@@ -113,7 +113,7 @@ body{
 	background-color: #ff22ad
 }
 .slider-nav .prev, .slider-nav .next {
-	background: url('img/sprite.png') no-repeat;
+	background: url("../img/sprite.png") no-repeat;
 	display: inline-block;
 	text-indent: -9000px;
 	overflow: hidden;
