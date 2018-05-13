@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+div{
+	outline:1px solid #ECECEC;
+}
+
+.blue{
+	background-color: #71b3fd;
+	height: 40px;
+}
+.green{
+	background-color: #b5d732;
+	height: 200px;
+}
+.orange{
+	background-color: #ebad3d;
+	height:80px;
+}
+.gray{
+	background-color: #c2c2c2;
+	height: 80px;
+}
